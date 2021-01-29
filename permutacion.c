@@ -1,7 +1,7 @@
 /*
 * Programa para obtener permutaciones de una palabra ingresada por teclado y consola
 * Autor: Giron Peregrina Ramon Alonso
-* Github link: 
+* Github link: https://github.com/Alonso9/Permutacion
 **/
 
 
